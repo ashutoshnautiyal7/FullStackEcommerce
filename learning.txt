@@ -1,0 +1,3 @@
+53:02 -> installing library for the global state management   -> zustand
+
+reset the entire db using prisma => npx prisma migrate reset 
